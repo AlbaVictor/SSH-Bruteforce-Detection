@@ -1,1 +1,45 @@
+Dec 12 14:03:01 ubuntu sshd[4121]: Connection from 203.0.113.91 port 42201 on 10.0.2.10 port 22
+Dec 12 14:03:03 ubuntu sshd[4121]: Invalid user admin from 203.0.113.91 port 42201
+Dec 12 14:03:04 ubuntu sshd[4121]: Failed password for invalid user admin from 203.0.113.91 port 42201 ssh2
+Dec 12 14:03:08 ubuntu sshd[4123]: Invalid user root from 203.0.113.91 port 42208
+Dec 12 14:03:09 ubuntu sshd[4123]: Failed password for invalid user root from 203.0.113.91 port 42208 ssh2
+Dec 12 14:03:12 ubuntu sshd[4126]: Invalid user test from 203.0.113.91 port 42215
+Dec 12 14:03:13 ubuntu sshd[4126]: Failed password for invalid user test from 203.0.113.91 port 42215 ssh2
+Dec 12 14:03:16 ubuntu sshd[4129]: Invalid user ubuntu from 203.0.113.91 port 42222
+Dec 12 14:03:17 ubuntu sshd[4129]: Failed password for invalid user ubuntu from 203.0.113.91 port 42222 ssh2
+Dec 12 14:03:21 ubuntu sshd[4132]: Invalid user oracle from 203.0.113.91 port 42229
+Dec 12 14:03:22 ubuntu sshd[4132]: Failed password for invalid user oracle from 203.0.113.91 port 42229 ssh2
+Dec 12 14:03:26 ubuntu sshd[4135]: Invalid user pi from 203.0.113.91 port 42236
+Dec 12 14:03:27 ubuntu sshd[4135]: Failed password for invalid user pi from 203.0.113.91 port 42236 ssh2
+Dec 12 14:03:31 ubuntu sshd[4138]: Invalid user admin from 203.0.113.91 port 42243
+Dec 12 14:03:32 ubuntu sshd[4138]: Failed password for invalid user admin from 203.0.113.91 port 42243 ssh2
+Dec 12 14:03:35 ubuntu sshd[4140]: Failed password for invalid user admin from 203.0.113.91 port 42249 ssh2
+Dec 12 14:03:38 ubuntu sshd[4142]: Failed password for invalid user root from 203.0.113.91 port 42255 ssh2
+Dec 12 14:03:41 ubuntu sshd[4144]: Failed password for invalid user test from 203.0.113.91 port 42260 ssh2
+Dec 12 14:03:44 ubuntu sshd[4146]: Failed password for invalid user ubuntu from 203.0.113.91 port 42266 ssh2
+Dec 12 14:03:48 ubuntu sshd[4148]: Failed password for invalid user oracle from 203.0.113.91 port 42272 ssh2
+Dec 12 14:03:52 ubuntu sshd[4150]: Failed password for invalid user pi from 203.0.113.91 port 42278 ssh2
+Dec 12 14:03:55 ubuntu sshd[4152]: Failed password for invalid user admin from 203.0.113.91 port 42284 ssh2
+Dec 12 14:03:58 ubuntu sshd[4154]: Failed password for invalid user root from 203.0.113.91 port 42290 ssh2
+Dec 12 14:04:02 ubuntu sshd[4156]: Failed password for invalid user test from 203.0.113.91 port 42296 ssh2
+Dec 12 14:04:05 ubuntu sshd[4158]: Failed password for invalid user ubuntu from 203.0.113.91 port 42302 ssh2
+Dec 12 14:04:09 ubuntu sshd[4160]: Failed password for invalid user oracle from 203.0.113.91 port 42308 ssh2
+Dec 12 14:04:12 ubuntu sshd[4162]: Failed password for invalid user pi from 203.0.113.91 port 42314 ssh2
+Dec 12 14:04:16 ubuntu sshd[4164]: Failed password for invalid user admin from 203.0.113.91 port 42320 ssh2
+Dec 12 14:04:19 ubuntu sshd[4166]: Failed password for invalid user root from 203.0.113.91 port 42326 ssh2
+Dec 12 14:04:23 ubuntu sshd[4168]: Failed password for invalid user test from 203.0.113.91 port 42332 ssh2
+Dec 12 14:04:26 ubuntu sshd[4170]: Failed password for invalid user ubuntu from 203.0.113.91 port 42338 ssh2
+Dec 12 14:04:29 ubuntu sshd[4172]: Failed password for invalid user oracle from 203.0.113.91 port 42344 ssh2
+Dec 12 14:04:33 ubuntu sshd[4174]: Failed password for invalid user pi from 203.0.113.91 port 42350 ssh2
+Dec 12 14:04:36 ubuntu sshd[4176]: Failed password for invalid user admin from 203.0.113.91 port 42356 ssh2
+Dec 12 14:04:40 ubuntu sshd[4178]: Failed password for invalid user root from 203.0.113.91 port 42362 ssh2
+Dec 12 14:04:43 ubuntu sshd[4180]: Failed password for invalid user test from 203.0.113.91 port 42368 ssh2
+Dec 12 14:04:47 ubuntu sshd[4182]: Failed password for invalid user ubuntu from 203.0.113.91 port 42374 ssh2
+Dec 12 14:04:50 ubuntu sshd[4184]: Failed password for invalid user oracle from 203.0.113.91 port 42380 ssh2
+Dec 12 14:04:54 ubuntu sshd[4186]: Failed password for invalid user pi from 203.0.113.91 port 42386 ssh2
+Dec 12 14:05:01 ubuntu sudo:   victor : TTY=pts/0 ; PWD=/home/victor ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/auth.log
+Dec 12 14:05:15 ubuntu sshd[4210]: Accepted publickey for victor from 10.0.2.15 port 53522 ssh2: RSA SHA256:REDACTED
+Dec 12 14:05:15 ubuntu sshd[4210]: pam_unix(sshd:session): session opened for user victor by (uid=0)
+Dec 12 14:06:02 ubuntu sshd[4241]: Failed password for invalid user admin from 203.0.113.91 port 42440 ssh2
+Dec 12 14:06:07 ubuntu sshd[4243]: Failed password for invalid user root from 203.0.113.91 port 42448 ssh2
 
