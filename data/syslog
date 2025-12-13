@@ -1,1 +1,16 @@
-
+Dec 12 14:02:58 ubuntu systemd[1]: Starting OpenSSH server daemon...
+Dec 12 14:02:58 ubuntu sshd[4001]: Server listening on 0.0.0.0 port 22.
+Dec 12 14:02:58 ubuntu sshd[4001]: Server listening on :: port 22.
+Dec 12 14:03:01 ubuntu sshd[4121]: Connection from 203.0.113.91 port 42201 on 10.0.2.10 port 22
+Dec 12 14:03:04 ubuntu sshd[4121]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.0.113.91
+Dec 12 14:03:09 ubuntu sshd[4123]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.0.113.91
+Dec 12 14:03:17 ubuntu sshd[4129]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.0.113.91
+Dec 12 14:03:27 ubuntu sshd[4135]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.0.113.91
+Dec 12 14:04:05 ubuntu CRON[4159]: (root) CMD (cd / && run-parts --report /etc/cron.hourly)
+Dec 12 14:04:12 ubuntu sshd[4162]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.0.113.91
+Dec 12 14:04:36 ubuntu sshd[4176]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.0.113.91
+Dec 12 14:05:01 ubuntu sudo:   victor : TTY=pts/0 ; PWD=/home/victor ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/auth.log
+Dec 12 14:05:15 ubuntu sshd[4210]: Accepted publickey for victor from 10.0.2.15 port 53522 ssh2: RSA SHA256:REDACTED
+Dec 12 14:05:15 ubuntu systemd-logind[735]: New session 9 of user victor.
+Dec 12 14:06:02 ubuntu sshd[4241]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.0.113.91
+Dec 12 14:06:07 ubuntu sshd[4243]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.0.113.91
