@@ -38,7 +38,7 @@ Dec 12 14:04:47 ubuntu sshd[4182]: Failed password for invalid user ubuntu from 
 Dec 12 14:04:50 ubuntu sshd[4184]: Failed password for invalid user oracle from 203.0.113.91 port 42380 ssh2
 Dec 12 14:04:54 ubuntu sshd[4186]: Failed password for invalid user pi from 203.0.113.91 port 42386 ssh2
 Dec 12 14:05:01 ubuntu sudo:   victor : TTY=pts/0 ; PWD=/home/victor ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/auth.log
-Dec 12 14:05:15 ubuntu sshd[4210]: Accepted publickey for victor from 10.0.2.15 port 53522 ssh2: RSA SHA256:REDACTED
+Dec 12 14:05:15 ubuntu sshd[4210]: Accepted publickey for victor from 10.0.2.15 port 53522 ssh2: RSA SHA256:3m5xQe1p8vV3d9YgY9JcRk2HqkS0aZbYp9mQk1aBcDe
 Dec 12 14:05:15 ubuntu sshd[4210]: pam_unix(sshd:session): session opened for user victor by (uid=0)
 Dec 12 14:06:02 ubuntu sshd[4241]: Failed password for invalid user admin from 203.0.113.91 port 42440 ssh2
 Dec 12 14:06:07 ubuntu sshd[4243]: Failed password for invalid user root from 203.0.113.91 port 42448 ssh2
